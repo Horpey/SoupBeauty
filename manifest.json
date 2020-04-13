@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+
+    "name": "Soup Style",
+    "version": "0.1.0",
+    "description": "Soup Style is a reimagination of the BeautifulSoup desktop website. It updates the site and gives it a modern and slick new look",
+    "icons": {
+        "16": "icon.png"
+    },
+    "content_scripts": [{
+        "css": ["styles.css"],
+        "js": ["content.js"],
+        "matches": ["https://www.crummy.com/software/BeautifulSoup/*"]
+    }],
+    "browser_action": {
+        "default_icon": "icon.png"
+    }
+}
