@@ -12,3 +12,15 @@ You can install it in your browser by following [this link](##)
 
 Visit [Beautiful Soup Documentation site](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) after the extension is installed and you
 should be greeted to a modern and slick new beautifulSoup.
+
+### Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/Horpey/SoupBeauty/blob/master/CONTRIBUTING.md)
+for details on code of conduct, and the process for submitting pull requests.
+
+
+### License
+
+This project is licensed under the MIT License -
+see the [LICENSE.md](https://github.com/Horpey/SoupBeauty/blob/master/LICENSE)
+file for details.
